@@ -1,0 +1,9 @@
+C:\Users\Ahmets Project>e:
+
+E:\>cd\
+
+E:\>cd /d E:\txt
+
+E:\txt>ren *.txt *.xlsx
+
+E:\txt>
