@@ -4,6 +4,6 @@ E:\>cd\
 
 E:\>cd /d E:\txt
 
-E:\txt>ren *.txt *.xlsx
+E:\txt>ren *(filename).txt *(filename).xlsx //#if you write nothing instead of file name, Cmd will change all the folder name which denoted txt.
 
 E:\txt>
